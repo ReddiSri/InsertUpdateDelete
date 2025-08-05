@@ -33,10 +33,10 @@ Creates a `Users` table with an auto-incrementing primary key and a default valu
 - Inserts a user with a `NULL` age explicitly.
 
 ✅ Update Operation
-- Updates the `Age` of the user named **Bob** to `30`.
+- Updates the `Age` of the user named **Ram** to `35`.
 
 ✅ Delete Operation
-- Deletes the user with the email **charlie@example.com**.
+- Deletes the user with the email **teja@example.com**.
 
 💡 Notes
 - The script uses `IDENTITY(1,1)` for auto-incrementing `UserID` (specific to SQL Server).
