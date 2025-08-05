@@ -1,4 +1,4 @@
-SQL Script: Basic CRUD Operations with Data Handling
+SQL Script: Data Insertion and Handling Nulls
 
 📝 Description
 
@@ -47,5 +47,5 @@ Creates a `Users` table with an auto-incrementing primary key and a default valu
 You can run this script in any SQL-compatible tool such as:
 - Microsoft SQL Server
 - Azure Data Studio
-- MySQL Workbench (with slight syntax modifications)
-- PostgreSQL (adjust auto-increment logic)
+- MySQL Workbench 
+- PostgreSQL
